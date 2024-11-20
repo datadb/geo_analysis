@@ -1,0 +1,1 @@
+#### download the NewYork_Final_2022-06-18.csv tree data taken from [Dryad Dataset](https://datadryad.org/stash/dataset/doi:10.5061/dryad.2jm63xsrf) and place it here
