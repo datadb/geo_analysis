@@ -6,10 +6,10 @@ https://datadryad.org/dataset/doi:10.5061/dryad.2jm63xsrf#methods (2022.08.30 ve
 License: CC0
 
 ### Tree density per tract
-<img src="analysis_charts/1.png" width=auto height="500">
+<img src="analysis_charts/1.png" width=auto height="590">
 
 ### Population density per tract
-<img src="analysis_charts/2.png" width=auto height="500">
+<img src="analysis_charts/2.png" width=auto height="590">
 
 ### Tree density & population density correlation
 <img src="analysis_charts/3.png" width=auto height="500">
